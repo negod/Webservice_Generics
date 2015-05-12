@@ -121,7 +121,7 @@
         <connection>scm:git:git@github.com:negod/Webservice_Generics.git</connection>
         <url>scm:git:git@github.com:negod/Webservice_Generics.git</url>
         <developerConnection>scm:git:git@github.com:negod/Webservice_Generics.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>generic-1.0.0</tag>
   </scm>
     
     <distributionManagement>
