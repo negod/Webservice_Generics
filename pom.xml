@@ -69,6 +69,11 @@
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <version>2.3.2</version>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.1</version>
                 <configuration>
@@ -109,6 +114,7 @@
         <connection>scm:git:git@github.com:negod/Webservice_Generics.git</connection>
         <url>scm:git:git@github.com:negod/Webservice_Generics.git</url>
         <developerConnection>scm:git:git@github.com:negod/Webservice_Generics.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
     
     <distributionManagement>
