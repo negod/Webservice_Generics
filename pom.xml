@@ -10,7 +10,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.7</maven.compiler.source>
-        <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
     
     <dependencies>
@@ -102,7 +101,6 @@
                     </execution>
                 </executions>
             </plugin>
-                       
         </plugins>
     </build>
     
@@ -121,14 +119,17 @@
         <connection>scm:git:git@github.com:negod/Webservice_Generics.git</connection>
         <url>scm:git:git@github.com:negod/Webservice_Generics.git</url>
         <developerConnection>scm:git:git@github.com:negod/Webservice_Generics.git</developerConnection>
-    </scm>
+      <tag>HEAD</tag>
+  </scm>
     
     <distributionManagement>
         <repository>
-            <id>releases</id>
+            <id>negod.releases</id>
+            <url>http://109.74.2.250:8081/nexus/content/repositories/releases</url>
         </repository>
         <snapshotRepository>
-            <id>snapshots</id>
+            <id>negod.snapshots</id>
+            <url>http://109.74.2.250:8081/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     
