@@ -6,7 +6,7 @@
 package se.negod.generic.control;
 
 import se.negod.generic.webservice.WsResponse;
-import se.neogd.generic.error.ErrorCode;
+import se.negod.generic.error.ErrorCode;
 
 /**
  *

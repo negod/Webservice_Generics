@@ -9,7 +9,7 @@ import javax.ejb.Stateless;
 import se.negod.generic.control.Response;
 import se.negod.generic.dto.ErrorLogDto;
 import se.negod.generic.entity.ErrorLog;
-import se.neogd.generic.error.GenericError;
+import se.negod.generic.error.GenericError;
 
 /**
  * 

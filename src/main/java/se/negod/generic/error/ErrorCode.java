@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package se.neogd.generic.error;
+package se.negod.generic.error;
 
 /**
  *

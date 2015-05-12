@@ -8,7 +8,7 @@ package se.negod.generic.dao;
 import se.negod.generic.entity.BaseEntity;
 import se.negod.generic.control.Response;
 import se.negod.generic.mapper.Mapper;
-import se.neogd.generic.error.GenericError;
+import se.negod.generic.error.GenericError;
 import java.util.ArrayList;
 import java.util.List;
 import org.slf4j.Logger;

@@ -12,7 +12,7 @@ import java.util.UUID;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import se.negod.generic.control.Response;
-import se.neogd.generic.error.GenericError;
+import se.negod.generic.error.GenericError;
 
 /**
  *

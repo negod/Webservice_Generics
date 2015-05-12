@@ -7,7 +7,7 @@ package se.negod.generic.dto;
 
 import javax.persistence.Column;
 import javax.persistence.Transient;
-import se.neogd.generic.error.ErrorCode;
+import se.negod.generic.error.ErrorCode;
 
 /**
  *

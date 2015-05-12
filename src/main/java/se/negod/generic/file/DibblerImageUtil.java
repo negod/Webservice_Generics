@@ -5,7 +5,7 @@
  */
 package se.negod.generic.file;
 
-import se.neogd.generic.error.GenericError;
+import se.negod.generic.error.GenericError;
 import java.awt.AlphaComposite;
 import java.awt.Graphics2D;
 import java.awt.RenderingHints;

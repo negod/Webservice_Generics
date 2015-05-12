@@ -5,7 +5,7 @@
  */
 package se.negod.generic.file;
 
-import se.neogd.generic.error.FileError;
+import se.negod.generic.error.FileError;
 import java.io.File;
 import java.io.FilenameFilter;
 import java.util.ArrayList;

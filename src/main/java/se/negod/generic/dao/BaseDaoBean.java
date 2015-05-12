@@ -8,7 +8,7 @@ package se.negod.generic.dao;
 import se.negod.generic.dao.BaseMapper;
 import se.negod.generic.entity.BaseEntity;
 import se.negod.generic.control.Response;
-import se.neogd.generic.error.GenericError;
+import se.negod.generic.error.GenericError;
 import java.sql.SQLIntegrityConstraintViolationException;
 import java.util.ArrayList;
 import java.util.Date;
